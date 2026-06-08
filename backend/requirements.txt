@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+python-multipart
+pydantic-settings
+whisper
+static-ffmpeg
+gtts
+librosa
+numpy
+torch
+torchvision
+torchaudio
+scikit-learn
+google-generativeai
+python-dotenv
