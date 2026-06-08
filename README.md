@@ -52,6 +52,8 @@ EmpathAI/
    npm run dev
    ```
    The dashboard will be available at `http://localhost:5173`.
+   ## Latest Updates
+- Improved project documentation
 
 ## Milestone Status
 - [x] **Milestone 1**: Project Initialization & Dashboard UI
